@@ -9,5 +9,6 @@ namespace WindowsFormsApp_241213
     internal class Changheonkim
     {
         //Changheonkim
+        //추가했습니다
     }
 }
