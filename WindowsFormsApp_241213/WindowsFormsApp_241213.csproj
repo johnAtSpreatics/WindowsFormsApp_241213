@@ -64,6 +64,7 @@
     <Compile Include="hy.cs" />
     <Compile Include="kimyerin.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="kknyapple.cs"/>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Changheonkim.cs" />
     <Compile Include="taehoon.cs" />

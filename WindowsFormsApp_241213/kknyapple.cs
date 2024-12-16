@@ -9,5 +9,6 @@ namespace WindowsFormsApp_241213
     internal class kknyapple
     {
         // kknyapple
+        // add
     }
 }
