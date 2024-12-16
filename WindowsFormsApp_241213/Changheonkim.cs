@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp_241213
 {
-    internal class Hajun
+    internal class Changheonkim
     {
-        // "오하준"
-        string myname = "Oh Hajun";
+        //Changheonkim
+        //추가했습니다
     }
 }

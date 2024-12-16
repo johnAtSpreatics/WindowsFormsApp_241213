@@ -9,5 +9,6 @@ namespace WindowsFormsApp_241213
     internal class ksy
     {
         //곽승엽
+        //내용 추가
     }
 }
