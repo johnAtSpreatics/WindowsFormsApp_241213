@@ -8,6 +8,6 @@ namespace WindowsFormsApp_241213
 {
     internal class 송아현
     {
-        /*송아현*/
+        /*Ahyun*/
     }
 }
