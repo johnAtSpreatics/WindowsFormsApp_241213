@@ -9,5 +9,6 @@ namespace WindowsFormsApp_241213
     internal class Hajun
     {
         // "오하준"
+        string myname = "Oh Hajun";
     }
 }
