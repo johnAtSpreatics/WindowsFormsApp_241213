@@ -12,5 +12,6 @@ namespace WindowsFormsApp_241213
 
        // hyeonjun
        // 오류수정?
+       // kk  j
     }
 }
